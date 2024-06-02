@@ -19,7 +19,7 @@
   "homepage": "https://github.com/muhammadsyihab/back-end_ebook",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
