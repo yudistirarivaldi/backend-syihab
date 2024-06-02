@@ -1,0 +1,28 @@
+{
+  "name": "ebook-api",
+  "version": "1.0.0",
+  "description": "An API for getting ebook Info",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadsyihab/back-end_ebook"
+  },
+  "keywords": [
+    "ebook",
+    "quotes",
+    "api",
+    "quotes-api"
+  ],
+  "author": "syihab",
+  "bugs": {
+    "url": "https://github.com/muhammadsyihab/back-end_ebook/issues"
+  },
+  "homepage": "https://github.com/muhammadsyihab/back-end_ebook",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
